@@ -1,0 +1,38 @@
+body{
+    font-family: Arial;
+    max-width: 600px;
+    margin: auto;
+    padding: 15px;
+    background: #eef3fb;
+}
+
+h1{
+    text-align:center;
+}
+
+button{
+    width:100%;
+    padding:15px;
+    font-size:18px;
+    background:#2563eb;
+    color:white;
+    border:none;
+    border-radius:10px;
+    margin-top:20px;
+}
+
+#resultat{
+    margin-top:20px;
+    padding:15px;
+    background:white;
+    border-radius:10px;
+}
+
+.menu a{
+    display:block;
+    padding:15px;
+    margin:10px 0;
+    background:white;
+    border-radius:10px;
+    text-decoration:none;
+}
